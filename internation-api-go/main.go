@@ -77,7 +77,7 @@ func main() {
 		message := viper.Get("message")
 		c.JSON(200, gin.H{"code": 20000, "message": "ok", "data": message})
 	})
-	r.Run(":8002")
+	r.Run(":8012")
 }
 
 //GOOS=linux GOARCH=amd64 go build -o internation-rate-1125a

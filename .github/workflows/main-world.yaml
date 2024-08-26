@@ -1,0 +1,137 @@
+name: Go CI/CD
+
+permissions:
+  contents: write
+  discussions: write
+
+on:
+  push:
+    #branches: [ main ]
+    tags: [ 'v*' ]
+
+jobs:
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v4
+
+    - name: Set up Go
+      uses: actions/setup-go@v5
+      with:
+        go-version: '1.22'
+
+    - name: Build
+      run: |
+        cd internation-api-go
+        CGO_ENABLED=0 GOOS=linux GOARCH=amd64 go build -v -o rate-api-world .
+
+    - name: Generate SHA256 hash
+      run: |
+        cd internation-api-go
+        sha256sum rate-api-world > rate-api-world.sha256
+        echo "BINARY_HASH=$(cat rate-api-world.sha256 | cut -d ' ' -f 1)" >> $GITHUB_ENV
+
+    - name: Create Release and Upload Asset
+      uses: actions/github-script@v7
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          const fs = require('fs');
+          const { owner, repo } = context.repo;
+          const tagName = process.env.GITHUB_REF.replace('refs/tags/', '');
+          const release = await github.rest.repos.createRelease({
+            owner,
+            repo,
+            tag_name: tagName,
+            name: `Release ${tagName}`,
+            draft: false,
+            prerelease: false
+          });
+          
+          const asset = await github.rest.repos.uploadReleaseAsset({
+            owner,
+            repo,
+            release_id: release.data.id,
+            name: `rate-api-world-${tagName}`,
+            data: fs.readFileSync('./internation-api-go/rate-api-world')
+          });
+
+    - name: Setup SSH
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SERVER_SSH_KEY }}" > ~/.ssh/id_rsa
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan -H ${{ secrets.SERVER_HOST }} >> ~/.ssh/known_hosts
+
+    - name: Copy File to Server
+      uses: appleboy/scp-action@master
+      with:
+        host: ${{ secrets.SERVER_HOST }}
+        username: ${{ secrets.SERVER_USERNAME }}
+        key: ${{ secrets.SERVER_SSH_KEY }}
+        source: "internation-api-go/rate-api-world"
+        target: "/opt/rate-api-world/"
+        strip_components: 1
+
+    - name: Deploy to Server-2
+      uses: appleboy/ssh-action@master
+      env:
+        RELEASE_VERSION: ${{ github.ref_name }}
+        BINARY_HASH: ${{ env.BINARY_HASH }}
+      with: 
+        host: ${{ secrets.SERVER_HOST }}
+        username: ${{ secrets.SERVER_USERNAME }}
+        key: ${{ secrets.SERVER_SSH_KEY }}
+        envs: RELEASE_VERSION,BINARY_HASH
+        script: |
+          echo "Testing SSH connection"
+          ls -la /opt/rate-api-world
+          
+          # 设置变量
+          TAG_NAME=$RELEASE_VERSION
+          INSTALL_DIR=/opt/rate-api-world
+          BINARY_NAME="rate-api-world-${TAG_NAME}"
+          
+          echo "Deploying version: ${TAG_NAME}"
+          echo "Binary name: ${BINARY_NAME}"
+          
+          # 验证文件hash
+          REMOTE_HASH=$(sha256sum $INSTALL_DIR/rate-api-world | cut -d ' ' -f 1)
+          
+          if [ "$REMOTE_HASH" = "$BINARY_HASH" ]; then
+            echo "File transfer successful and hash verified."
+          else
+            echo "Hash verification failed. Deployment failed."
+            exit 1
+          fi
+          
+          # 重命名文件
+          sudo mv $INSTALL_DIR/rate-api-world $INSTALL_DIR/$BINARY_NAME
+          
+          # 设置执行权限
+          sudo chmod 755 $INSTALL_DIR/$BINARY_NAME
+          
+          # 确保 rate-api 用户和组存在,就使用原rate-api用户,不新建 rate-api-world
+          sudo groupadd -f rate-api
+          sudo useradd -r -g rate-api -s /sbin/nologin rate-api || true
+          
+          # 设置正确的所有权
+          sudo chown -R rate-api:rate-api $INSTALL_DIR
+          
+          # 更新软链接
+          sudo ln -sf $INSTALL_DIR/$BINARY_NAME /usr/local/bin/rate-api-world
+          sudo chown -h rate-api:rate-api /usr/local/bin/rate-api-world
+          
+          # 确保日志目录存在并设置正确的权限
+          sudo mkdir -p /var/log/rate-api-world
+          sudo chown rate-api:rate-api /var/log/rate-api-world
+          sudo chmod 755 /var/log/rate-api-world
+          
+          # 重新加载 systemd 配置并重启服务
+          sudo systemctl daemon-reload
+          sudo systemctl restart rate-api-world.service
+          
+          # 清理旧版本(保留最新的3个版本)
+          cd $INSTALL_DIR
+          ls -t rate-api-world-* | tail -n +4 | xargs -I {} sudo rm -- {}
