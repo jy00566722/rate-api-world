@@ -1,0 +1,11 @@
+{
+    "env": "release",
+    "mongodbDns":"mongodb://root:aabbcc1234@inter-rate-mongo:27017/",
+      "message":[
+       {"index":3,
+       "context":"Would you mind leaving a positive review when you have a moment? Your support will motivate me to work even harder.",
+       "main":false,
+       "type":"info",
+       "time":"2023-11-25"}
+    ]
+  }

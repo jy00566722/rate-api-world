@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Tagapagpalit ng Pera",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Ang extension na ito ay nag-aalok ng real-time na rate para sa tradisyonal at crypto currencies",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Tagapagpalit ng Pera",
+        "description": "Default Action Title"
+    }
+}

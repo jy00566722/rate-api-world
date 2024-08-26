@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "مبدل ارز",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "این افزونه نرخ‌های لحظه‌ای برای ارزهای سنتی و رمزنگاری شده را ارائه می‌دهد",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "مبدل ارز",
+        "description": "Default Action Title"
+    }
+}

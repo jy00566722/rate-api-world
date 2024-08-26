@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Конвертор на валути Плюс",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Това разширение предлага реално време на традиционни и крипто валути",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Конвертор на валути Плюс",
+        "description": "Default Action Title"
+    }
+}

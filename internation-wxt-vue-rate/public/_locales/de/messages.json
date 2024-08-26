@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Währungsrechner",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Diese Erweiterung bietet Echtzeitkurse für traditionelle und Kryptowährungen",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Währungsrechner",
+        "description": "Default Action Title"
+    }
+}

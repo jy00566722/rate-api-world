@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Currency Converter Plus",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "This extension offers real-time rates for traditional and crypto currencies",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Currency Converter Plus",
+        "description": "Default Action Title"
+    }
+}

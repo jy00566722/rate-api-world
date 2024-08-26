@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Prevodník mien",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Toto rozšírenie ponúka aktuálne kurzy pre tradičné a kryptomeny",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Prevodník mien",
+        "description": "Default Action Title"
+    }
+}

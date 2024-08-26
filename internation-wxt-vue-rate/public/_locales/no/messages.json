@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valutakalkulator",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Denne utvidelsen tilbyr sanntidskurser for tradisjonelle og kryptovalutaer",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valutakalkulator",
+        "description": "Default Action Title"
+    }
+}

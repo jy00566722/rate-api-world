@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Převodník měn Plus",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Toto rozšíření nabízí aktuální kurzy pro tradiční a kryptoměny",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Převodník měn Plus",
+        "description": "Default Action Title"
+    }
+}

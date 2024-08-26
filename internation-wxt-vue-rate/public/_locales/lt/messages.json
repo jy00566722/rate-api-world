@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valiutos keitiklis",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Šis plėtinys siūlo realaus laiko kursus tradicinėms ir kriptovaliutoms",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valiutos keitiklis",
+        "description": "Default Action Title"
+    }
+}

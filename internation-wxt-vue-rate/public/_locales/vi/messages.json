@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Chuyển đổi tiền tệ",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Tiện ích mở rộng này cung cấp tỷ giá thời gian thực cho tiền tệ truyền thống và tiền điện tử",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Chuyển đổi tiền tệ",
+        "description": "Default Action Title"
+    }
+}

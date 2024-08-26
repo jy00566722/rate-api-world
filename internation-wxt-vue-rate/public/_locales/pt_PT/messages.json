@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Conversor de Moedas",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Esta extensão oferece taxas em tempo real para moedas tradicionais e criptomoedas",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Conversor de Moedas",
+        "description": "Default Action Title"
+    }
+}

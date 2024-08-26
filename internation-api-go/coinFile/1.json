@@ -1,0 +1,502 @@
+[
+    {
+        "code": "BTC",
+        "name": "Bitcoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+    },
+    {
+        "code": "ETH",
+        "name": "Ethereum",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+    },
+    {
+        "code": "USDT",
+        "name": "Tether",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/825.png"
+    },
+    {
+        "code": "BNB",
+        "name": "BNB",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+    },
+    {
+        "code": "SOL",
+        "name": "Solana",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+    },
+    {
+        "code": "USDC",
+        "name": "USDC",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+    },
+    {
+        "code": "XRP",
+        "name": "XRP",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+    },
+    {
+        "code": "TON",
+        "name": "Toncoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11419.png"
+    },
+    {
+        "code": "DOGE",
+        "name": "Dogecoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+    },
+    {
+        "code": "ADA",
+        "name": "Cardano",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+    },
+    {
+        "code": "SHIB",
+        "name": "Shiba Inu",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+    },
+    {
+        "code": "AVAX",
+        "name": "Avalanche",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png"
+    },
+    {
+        "code": "TRX",
+        "name": "TRON",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+    },
+    {
+        "code": "DOT",
+        "name": "Polkadot",
+        "logo": "https://s2.coinmarketcap.com/static/cloud/img/logo/polkadot/Polkadot_Logo_Animation_64x64.gif"
+    },
+    {
+        "code": "BCH",
+        "name": "Bitcoin Cash",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+    },
+    {
+        "code": "LINK",
+        "name": "Chainlink",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+    },
+    {
+        "code": "NEAR",
+        "name": "NEAR Protocol",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png"
+    },
+    {
+        "code": "MATIC",
+        "name": "Polygon",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+    },
+    {
+        "code": "LTC",
+        "name": "Litecoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+    },
+    {
+        "code": "ICP",
+        "name": "Internet Computer",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png"
+    },
+    {
+        "code": "LEO",
+        "name": "UNUS SED LEO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3957.png"
+    },
+    {
+        "code": "DAI",
+        "name": "Dai",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+    },
+    {
+        "code": "UNI",
+        "name": "Uniswap",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+    },
+    {
+        "code": "RNDR",
+        "name": "Render",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png"
+    },
+    {
+        "code": "ETC",
+        "name": "Ethereum Classic",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png"
+    },
+    {
+        "code": "HBAR",
+        "name": "Hedera",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png"
+    },
+    {
+        "code": "FDUSD",
+        "name": "First Digital USD",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png"
+    },
+    {
+        "code": "PEPE",
+        "name": "Pepe",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
+    },
+    {
+        "code": "APT",
+        "name": "Aptos",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png"
+    },
+    {
+        "code": "IMX",
+        "name": "Immutable",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+    },
+    {
+        "code": "ATOM",
+        "name": "Cosmos",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
+    },
+    {
+        "code": "CRO",
+        "name": "Cronos",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3635.png"
+    },
+    {
+        "code": "MNT",
+        "name": "Mantle",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/27075.png"
+    },
+    {
+        "code": "WIF",
+        "name": "dogwifhat",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png"
+    },
+    {
+        "code": "FIL",
+        "name": "Filecoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+    },
+    {
+        "code": "XLM",
+        "name": "Stellar",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+    },
+    {
+        "code": "OKB",
+        "name": "OKB",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3897.png"
+    },
+    {
+        "code": "STX",
+        "name": "Stacks",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png"
+    },
+    {
+        "code": "KAS",
+        "name": "Kaspa",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20396.png"
+    },
+    {
+        "code": "GRT",
+        "name": "The Graph",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png"
+    },
+    {
+        "code": "OP",
+        "name": "Optimism",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png"
+    },
+    {
+        "code": "ARB",
+        "name": "Arbitrum",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png"
+    },
+    {
+        "code": "AR",
+        "name": "Arweave",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png"
+    },
+    {
+        "code": "TAO",
+        "name": "Bittensor",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png"
+    },
+    {
+        "code": "VET",
+        "name": "VeChain",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png"
+    },
+    {
+        "code": "MKR",
+        "name": "Maker",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png"
+    },
+    {
+        "code": "XMR",
+        "name": "Monero",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png"
+    },
+    {
+        "code": "SUI",
+        "name": "Sui",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png"
+    },
+    {
+        "code": "INJ",
+        "name": "Injective",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png"
+    },
+    {
+        "code": "THETA",
+        "name": "Theta Network",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png"
+    },
+    {
+        "code": "FTM",
+        "name": "Fantom",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png"
+    },
+    {
+        "code": "RUNE",
+        "name": "THORChain",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png"
+    },
+    {
+        "code": "FET",
+        "name": "Fetch.ai",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png"
+    },
+    {
+        "code": "TIA",
+        "name": "Celestia",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png"
+    },
+    {
+        "code": "FLOKI",
+        "name": "FLOKI",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png"
+    },
+    {
+        "code": "LDO",
+        "name": "Lido DAO",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png"
+    },
+    {
+        "code": "BGB",
+        "name": "Bitget Token",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/11092.png"
+    },
+    {
+        "code": "BONK",
+        "name": "Bonk",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png"
+    },
+    {
+        "code": "ALGO",
+        "name": "Algorand",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
+    },
+    {
+        "code": "SEI",
+        "name": "Sei",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png"
+    },
+    {
+        "code": "JUP",
+        "name": "Jupiter",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png"
+    },
+    {
+        "code": "CORE",
+        "name": "Core",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/23254.png"
+    },
+    {
+        "code": "AKT",
+        "name": "Akash Network",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7431.png"
+    },
+    {
+        "code": "ENA",
+        "name": "Ethena",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png"
+    },
+    {
+        "code": "GALA",
+        "name": "Gala",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png"
+    },
+    {
+        "code": "FLOW",
+        "name": "Flow",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png"
+    },
+    {
+        "code": "AAVE",
+        "name": "Aave",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+    },
+    {
+        "code": "WLD",
+        "name": "Worldcoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png"
+    },
+    {
+        "code": "BSV",
+        "name": "Bitcoin SV",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3602.png"
+    },
+    {
+        "code": "AGIX",
+        "name": "SingularityNET",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2424.png"
+    },
+    {
+        "code": "BEAM",
+        "name": "Beam",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png"
+    },
+    {
+        "code": "QNT",
+        "name": "Quant",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png"
+    },
+    {
+        "code": "DYDX",
+        "name": "dYdX (Native)",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/28324.png"
+    },
+    {
+        "code": "BTT",
+        "name": "BitTorrent (New)",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png"
+    },
+    {
+        "code": "ONDO",
+        "name": "Ondo",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/21159.png"
+    },
+    {
+        "code": "CHZ",
+        "name": "Chiliz",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png"
+    },
+    {
+        "code": "FLR",
+        "name": "Flare",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7950.png"
+    },
+    {
+        "code": "W",
+        "name": "Wormhole",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29587.png"
+    },
+    {
+        "code": "EGLD",
+        "name": "MultiversX",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png"
+    },
+    {
+        "code": "NEO",
+        "name": "Neo",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png"
+    },
+    {
+        "code": "PENDLE",
+        "name": "Pendle",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png"
+    },
+    {
+        "code": "AXS",
+        "name": "Axie Infinity",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png"
+    },
+    {
+        "code": "KCS",
+        "name": "KuCoin Token",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2087.png"
+    },
+    {
+        "code": "SAND",
+        "name": "The Sandbox",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
+    },
+    {
+        "code": "XEC",
+        "name": "eCash",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png"
+    },
+    {
+        "code": "JASMY",
+        "name": "JasmyCoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png"
+    },
+    {
+        "code": "XTZ",
+        "name": "Tezos",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+    },
+    {
+        "code": "MINA",
+        "name": "Mina",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png"
+    },
+    {
+        "code": "STRK",
+        "name": "Starknet",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png"
+    },
+    {
+        "code": "EOS",
+        "name": "EOS",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png"
+    },
+    {
+        "code": "AIOZ",
+        "name": "AIOZ Network",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/9104.png"
+    },
+    {
+        "code": "SNX",
+        "name": "Synthetix",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png"
+    },
+    {
+        "code": "CFX",
+        "name": "Conflux",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png"
+    },
+    {
+        "code": "RON",
+        "name": "Ronin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/14101.png"
+    },
+    {
+        "code": "MANA",
+        "name": "Decentraland",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
+    },
+    {
+        "code": "BOME",
+        "name": "BOOK OF MEME",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/29870.png"
+    },
+    {
+        "code": "HNT",
+        "name": "Helium",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png"
+    },
+    {
+        "code": "ORDI",
+        "name": "ORDI",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/25028.png"
+    },
+    {
+        "code": "GT",
+        "name": "GateToken",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/4269.png"
+    },
+    {
+        "code": "APE",
+        "name": "ApeCoin",
+        "logo": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png"
+    }
+]

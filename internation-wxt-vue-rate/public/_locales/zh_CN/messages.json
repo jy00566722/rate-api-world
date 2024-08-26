@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "货币转换Plus",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "此扩展提供传统货币和加密货币的实时汇率",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "货币转换Plus",
+        "description": "Default Action Title"
+    }
+}

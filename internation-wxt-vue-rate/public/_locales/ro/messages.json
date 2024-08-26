@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Convertor Valutar",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Această extensie oferă rate în timp real pentru monedele tradiționale și criptomonedele",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Convertor Valutar",
+        "description": "Default Action Title"
+    }
+}

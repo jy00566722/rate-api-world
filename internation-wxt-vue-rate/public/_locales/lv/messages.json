@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valūtas konvertors",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Šis paplašinājums piedāvā reāllaika kursus tradicionālajām un kriptovalūtām",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valūtas konvertors",
+        "description": "Default Action Title"
+    }
+}

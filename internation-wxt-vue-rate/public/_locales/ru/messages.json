@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Конвертер валют",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Это расширение предлагает актуальные курсы для традиционных и криптовалют",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Конвертер валют",
+        "description": "Default Action Title"
+    }
+}

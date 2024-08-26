@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Mbadilishaji wa Fedha",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Upanuzi huu unatoa viwango vya wakati halisi kwa sarafu za jadi na sarafu za crypto",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Mbadilishaji wa Fedha",
+        "description": "Default Action Title"
+    }
+}

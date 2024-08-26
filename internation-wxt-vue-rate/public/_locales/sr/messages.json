@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Конвертор валута",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Овај додатак нуди стварне курсеве за традиционалне и крипто валуте",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Конвертор валута",
+        "description": "Default Action Title"
+    }
+}

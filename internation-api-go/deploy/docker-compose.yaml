@@ -1,0 +1,36 @@
+version: '3'
+
+services:
+  #rate-后端go-api-inter
+  rate-api:
+    build: ../ #Dockerfile的目录
+    container_name: docker-inter-api
+    restart: always
+    environment:
+      - DEBUG=false
+      - LOG_LEVEL=info
+      - CONFIG_FILE=config.json
+    depends_on:
+      - -inter-rate-mongo
+    ports:
+      - "8088:8002"
+    volumes:
+      - ./conf/config.json:/config.json
+
+  inter-rate-mongo:
+    image: mongo:6.0.13-jammy
+    container_name: mongo-api-inter
+    restart: always
+    ports:
+      - "27018:27017"
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: aabbcc1234
+
+  inter-nginx:
+    image:
+      build: ../internation-html/Currency_Converter_Plus
+      container_name: nginx-inter-currency-html
+      restart: always
+      ports:
+        - "8089:80"

@@ -1,0 +1,169 @@
+html[data-theme='dark']:root{
+  --main-backgroud-color: rgb(39,46,56);
+  --main-text-color: #fff;
+  --main-scrollbar-thumb-color:#4786df;
+  --main-scrollbar-track-color: rgb(39,46,56);
+  --back-el-button-text-color:red;
+
+  --nav-head-start-text-color:rgb(0, 151, 160);
+  --nav-head-start-text-hover-color:rgb(102, 135, 242);
+  --nav-head-start-m-text-color:rgb(155, 121, 188);
+
+  --list-item-bg-color:rgb(49, 63, 82);
+  --list-item-hover-bg-color:rgb(53, 75, 105);
+  --list-item-symbol-text-color:rgb(223, 31, 101);
+  --list-item-symbol-text-shadow-color:rgba(164, 164, 164,0.7);
+  --list-item-input-text-color:rgb(247, 154, 4);
+  --list-item-span-text-color: antiquewhite;
+  --list-item-del-span-text-color:rgb(45, 118, 5);
+  --list-item-del-span-text-hover-color:rgb(232, 107, 11);
+
+  --add-list-title-text-color:rgb(224, 171, 13);
+  --add-list-search-text-color:rgb(247, 154, 4);
+  --add-list-search-icon-color:rgb(231, 18, 110);
+  --add-list-item-text-color:rgb(255,255,240);
+  --add-list-item-symbol-color:rgb(226, 144, 43);
+  --add-list-item-selected-d-color:blueviolet;
+  --add-list-item-selected-not-color:rgb(196, 196, 196);
+  --add-list-item-border-color:rgb(96, 96, 96);
+  --add-list-item-bg-color:rgb(46, 54, 66);
+  --add-list-item-hover-bg-color:rgb(53, 75, 105);
+
+  --lan-text-color:aliceblue;
+
+  --setting-icon-color:#cc9911;
+  --setting-title-text-color:antiquewhite;
+  --setting-card-border-color:#b8b1ab;
+  --setting-exp-text-color:rgb(152, 70, 223);
+  --theme-icon-color1:rgb(0, 151, 160);
+  --theme-icon-color2:rgb(49, 63, 82);
+
+}
+
+html[data-theme='light']:root{
+  --main-backgroud-color: rgb(237, 240, 231);
+  --main-text-color: rgb(0, 0, 0);
+  --main-scrollbar-thumb-color: rgb(180, 180, 184);
+  --main-scrollbar-track-color: rgb(242, 239, 229);
+
+  --nav-head-start-text-color: rgb(33, 33, 33);
+  --nav-head-start-text-hover-color:#757575;
+  --nav-head-start-m-text-color:rgb(33, 33, 33);
+
+  --list-item-bg-color:rgb(227, 225, 217);
+  --list-item-hover-bg-color:rgb(205, 204, 202);
+  --list-item-symbol-text-color:rgb(66, 66, 66);
+  --list-item-symbol-text-shadow-color:rgb(218, 218, 218);
+  --list-item-input-text-color:rgb(33, 33, 33);
+  --list-item-span-text-color: rgb(0, 0, 0);
+  --list-item-del-span-text-color:rgb(66, 66, 66);
+  --list-item-del-span-text-hover-color:rgb(232, 107, 11);
+
+  --add-list-title-text-color: rgb(0, 0, 0);
+  --add-list-search-text-color:rgb(33, 33, 33);
+  --add-list-search-icon-color:rgb(33, 33, 33);
+  --add-list-item-text-color:rgb(0, 0, 0);
+  --add-list-item-symbol-color:rgb(57, 57, 57);
+  --add-list-item-selected-d-color:rgb(51, 51, 51);
+  --add-list-item-selected-not-color:rgb(127, 127, 127);
+  --add-list-item-border-color:rgb(49,63,80);
+  --add-list-item-bg-color:rgb(199, 200, 204);
+  --add-list-item-hover-bg-color:rgb(180, 180, 184);
+
+  --lan-text-color:rgb(0, 0, 0);
+
+  --setting-icon-color:#000000;
+  --setting-title-text-color:rgb(0, 0, 0);
+  --setting-card-border-color:#000000;
+  --setting-exp-text-color:rgb(0, 0, 0);
+  --theme-icon-color1:rgb(44, 44, 44);
+  --theme-icon-color2:rgb(230, 230, 230);
+}
+
+html[data-theme='navy']:root{
+  --main-backgroud-color: rgb(112, 119, 161);
+  --main-text-color: rgb(0, 0, 0);
+  --main-scrollbar-thumb-color: rgb(180, 180, 184);
+  --main-scrollbar-track-color: rgb(242, 239, 229);
+
+  --nav-head-start-text-color: rgb(230, 230, 230);
+  --nav-head-start-text-hover-color:#757575;
+  --nav-head-start-m-text-color:rgb(255, 255, 255);
+
+  --list-item-bg-color:rgb(66, 71, 105);
+  --list-item-hover-bg-color:rgb(45, 50, 80);
+  --list-item-symbol-text-color:rgb(248, 115, 6);
+  --list-item-symbol-text-shadow-color:rgb(99, 99, 99);
+  --list-item-input-text-color:rgb(224, 224, 224);
+  --list-item-span-text-color: rgb(230, 230, 230);
+  --list-item-del-span-text-color:rgb(141, 141, 141);
+  --list-item-del-span-text-hover-color:rgb(232, 107, 11);
+
+  --add-list-title-text-color: rgb(224, 224, 224);
+  --add-list-search-text-color:rgb(224, 224, 224);
+  --add-list-search-icon-color:rgb(224, 224, 224);
+  --add-list-item-text-color:rgb(224, 224, 224);
+  --add-list-item-symbol-color:rgb(224, 224, 224);
+  --add-list-item-selected-d-color:rgb(224, 224, 224);
+  --add-list-item-selected-not-color:rgb(66, 66, 66);
+  --add-list-item-border-color:rgb(49,63,80);
+  --add-list-item-bg-color:rgb(66, 71, 105);
+  --add-list-item-hover-bg-color:rgb(45, 50, 80);
+
+  --lan-text-color:rgb(224, 224, 224);
+
+  --setting-icon-color:rgb(224, 224, 224);
+  --setting-title-text-color:rgb(224, 224, 224);
+  --setting-card-border-color:rgb(224, 224, 224);
+  --setting-exp-text-color:rgb(224, 224, 224);
+  --theme-icon-color1:rgb(66, 71, 105);
+  --theme-icon-color2:rgb(230, 230, 230);
+
+
+}
+/*   
+background-image: linear-gradient(to top, #b224ef 0%, #7579ff 100%);
+background-image: linear-gradient(to top, #df89b5 0%, #bfd9fe 100%);
+background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+background-image: linear-gradient(to top, #a8edea 0%, #fed6e3 100%);
+*/
+html[data-theme='green']:root{
+  --main-backgroud-color:   #9DDE8B;
+  --main-text-color: #ffffff;
+  --main-scrollbar-thumb-color: rgb(180, 180, 184);
+  --main-scrollbar-track-color: rgb(242, 239, 229);
+
+  --nav-head-start-text-color: rgb(0, 0, 0);
+  --nav-head-start-text-hover-color:#505050;
+  --nav-head-start-m-text-color:rgb(0, 0, 0);
+
+  --list-item-bg-color: #40A578;
+  --list-item-hover-bg-color:#e9139b;
+  --list-item-symbol-text-color:rgb(255, 255, 255);
+  --list-item-symbol-text-shadow-color:rgb(0, 0, 0);
+  --list-item-input-text-color:#ffffff;
+  --list-item-span-text-color: #e6e1e1;
+  --list-item-del-span-text-color:rgb(186, 186, 186);
+  --list-item-del-span-text-hover-color:rgb(255, 255, 255);
+
+  --add-list-title-text-color: rgb(0, 0, 0);
+  --add-list-search-text-color:rgb(224, 224, 224);
+  --add-list-search-icon-color:rgb(224, 224, 224);
+  --add-list-item-text-color:rgb(255, 255, 255);
+  --add-list-item-symbol-color:rgb(0, 0, 0);
+  --add-list-item-selected-d-color:rgb(255, 255, 255);
+  --add-list-item-selected-not-color:rgb(66, 66, 66);
+  --add-list-item-border-color:rgb(49,63,80);
+  --add-list-item-bg-color:#40A578;
+  --add-list-item-hover-bg-color:linear-gradient(to top, #b224ef 0%, #7579ff 100%);
+
+  --lan-text-color:rgb(0, 0, 0);
+
+  --setting-icon-color:rgb(0, 0, 0);
+  --setting-title-text-color:rgb(0, 0, 0);
+  --setting-card-border-color:rgb(0, 0, 0);
+  --setting-exp-text-color:rgb(0, 0, 0);
+  --theme-icon-color1:#40A578;
+  --theme-icon-color2:#e9139b;
+
+}

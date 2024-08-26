@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "ממיר מטבעות",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "הרחבה זו מציעה שערים בזמן אמת למטבעות מסורתיים ולמטבעות קריפטו",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "ממיר מטבעות",
+        "description": "Default Action Title"
+    }
+}

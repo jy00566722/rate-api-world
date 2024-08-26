@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Pretvornik valut",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Ta razširitev ponuja realnočasovne tečaje za tradicionalne in kripto valute",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Pretvornik valut",
+        "description": "Default Action Title"
+    }
+}

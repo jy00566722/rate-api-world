@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Penukar Mata Wang",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Sambungan ini menawarkan kadar masa sebenar untuk mata wang tradisional dan kripto",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Penukar Mata Wang",
+        "description": "Default Action Title"
+    }
+}

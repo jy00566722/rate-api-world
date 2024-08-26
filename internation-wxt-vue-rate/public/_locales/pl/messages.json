@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Przelicznik walut",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "To rozszerzenie oferuje kursy w czasie rzeczywistym dla walut tradycyjnych i kryptowalut",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Currency Converter Plus",
+        "description": "Default Action Title"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Döviz Çevirici",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Bu uzantı, geleneksel ve kripto para birimleri için gerçek zamanlı oranlar sunar",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Döviz Çevirici",
+        "description": "Default Action Title"
+    }
+}

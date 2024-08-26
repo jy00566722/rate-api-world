@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "貨幣轉換器",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "此擴充功能提供傳統貨幣和加密貨幣的即時匯率",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "貨幣轉換器",
+        "description": "Default Action Title"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "通貨変換器",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "この拡張機能は、従来の通貨と暗号通貨のリアルタイムレートを提供します",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "通貨変換器",
+        "description": "Default Action Title"
+    }
+}

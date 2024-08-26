@@ -1,0 +1,752 @@
+[
+ {
+  "code": "BTC",
+  "query": "BTCUSDT",
+  "name": "Bitcoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1.png"
+ },
+ {
+  "code": "ETH",
+  "query": "ETHUSDT",
+  "name": "Ethereum",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1027.png"
+ },
+ {
+  "code": "BNB",
+  "query": "BNBUSDT",
+  "name": "BNB",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1839.png"
+ },
+ {
+  "code": "SOL",
+  "query": "SOLUSDT",
+  "name": "Solana",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5426.png"
+ },
+ {
+  "code": "USDC",
+  "query": "USDCUSDT",
+  "name": "USDC",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3408.png"
+ },
+ {
+  "code": "XRP",
+  "query": "XRPUSDT",
+  "name": "XRP",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/52.png"
+ },
+ {
+  "code": "DOGE",
+  "query": "DOGEUSDT",
+  "name": "Dogecoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/74.png"
+ },
+ {
+  "code": "ADA",
+  "query": "ADAUSDT",
+  "name": "Cardano",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2010.png"
+ },
+ {
+  "code": "SHIB",
+  "query": "SHIBUSDT",
+  "name": "Shiba Inu",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5994.png"
+ },
+ {
+  "code": "AVAX",
+  "query": "AVAXUSDT",
+  "name": "Avalanche",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5805.png"
+ },
+ {
+  "code": "TRX",
+  "query": "TRXUSDT",
+  "name": "TRON",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1958.png"
+ },
+ {
+  "code": "DOT",
+  "query": "DOTUSDT",
+  "name": "Polkadot",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/Polkadot_Logo_Animation_64x64.gif"
+ },
+ {
+  "code": "BCH",
+  "query": "BCHUSDT",
+  "name": "Bitcoin Cash",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1831.png"
+ },
+ {
+  "code": "LINK",
+  "query": "LINKUSDT",
+  "name": "Chainlink",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1975.png"
+ },
+ {
+  "code": "NEAR",
+  "query": "NEARUSDT",
+  "name": "NEAR Protocol",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6535.png"
+ },
+ {
+  "code": "MATIC",
+  "query": "MATICUSDT",
+  "name": "Polygon",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3890.png"
+ },
+ {
+  "code": "LTC",
+  "query": "LTCUSDT",
+  "name": "Litecoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2.png"
+ },
+ {
+  "code": "ICP",
+  "query": "ICPUSDT",
+  "name": "Internet Computer",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/8916.png"
+ },
+ {
+  "code": "DAI",
+  "query": "DAIUSDT",
+  "name": "Dai",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4943.png"
+ },
+ {
+  "code": "UNI",
+  "query": "UNIUSDT",
+  "name": "Uniswap",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/7083.png"
+ },
+ {
+  "code": "RNDR",
+  "query": "RNDRUSDT",
+  "name": "Render",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5690.png"
+ },
+ {
+  "code": "ETC",
+  "query": "ETCUSDT",
+  "name": "Ethereum Classic",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1321.png"
+ },
+ {
+  "code": "HBAR",
+  "query": "HBARUSDT",
+  "name": "Hedera",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4642.png"
+ },
+ {
+  "code": "FDUSD",
+  "query": "FDUSDUSDT",
+  "name": "First Digital USD",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/26081.png"
+ },
+ {
+  "code": "PEPE",
+  "query": "PEPEUSDT",
+  "name": "Pepe",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/24478.png"
+ },
+ {
+  "code": "APT",
+  "query": "APTUSDT",
+  "name": "Aptos",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/21794.png"
+ },
+ {
+  "code": "IMX",
+  "query": "IMXUSDT",
+  "name": "Immutable",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/10603.png"
+ },
+ {
+  "code": "ATOM",
+  "query": "ATOMUSDT",
+  "name": "Cosmos",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3794.png"
+ },
+ {
+  "code": "WIF",
+  "query": "WIFUSDT",
+  "name": "dogwifhat",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/28752.png"
+ },
+ {
+  "code": "FIL",
+  "query": "FILUSDT",
+  "name": "Filecoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2280.png"
+ },
+ {
+  "code": "XLM",
+  "query": "XLMUSDT",
+  "name": "Stellar",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/512.png"
+ },
+ {
+  "code": "STX",
+  "query": "STXUSDT",
+  "name": "Stacks",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4847.png"
+ },
+ {
+  "code": "GRT",
+  "query": "GRTUSDT",
+  "name": "The Graph",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6719.png"
+ },
+ {
+  "code": "OP",
+  "query": "OPUSDT",
+  "name": "Optimism",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/11840.png"
+ },
+ {
+  "code": "ARB",
+  "query": "ARBUSDT",
+  "name": "Arbitrum",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/11841.png"
+ },
+ {
+  "code": "AR",
+  "query": "ARUSDT",
+  "name": "Arweave",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5632.png"
+ },
+ {
+  "code": "TAO",
+  "query": "TAOUSDT",
+  "name": "Bittensor",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/22974.png"
+ },
+ {
+  "code": "VET",
+  "query": "VETUSDT",
+  "name": "VeChain",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3077.png"
+ },
+ {
+  "code": "MKR",
+  "query": "MKRUSDT",
+  "name": "Maker",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1518.png"
+ },
+ {
+  "code": "XMR",
+  "query": "XMRUSDT",
+  "name": "Monero",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/328.png"
+ },
+ {
+  "code": "SUI",
+  "query": "SUIUSDT",
+  "name": "Sui",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/20947.png"
+ },
+ {
+  "code": "INJ",
+  "query": "INJUSDT",
+  "name": "Injective",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/7226.png"
+ },
+ {
+  "code": "THETA",
+  "query": "THETAUSDT",
+  "name": "Theta Network",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2416.png"
+ },
+ {
+  "code": "FTM",
+  "query": "FTMUSDT",
+  "name": "Fantom",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3513.png"
+ },
+ {
+  "code": "RUNE",
+  "query": "RUNEUSDT",
+  "name": "THORChain",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4157.png"
+ },
+ {
+  "code": "FET",
+  "query": "FETUSDT",
+  "name": "Fetch.ai",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3773.png"
+ },
+ {
+  "code": "TIA",
+  "query": "TIAUSDT",
+  "name": "Celestia",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/22861.png"
+ },
+ {
+  "code": "FLOKI",
+  "query": "FLOKIUSDT",
+  "name": "FLOKI",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/10804.png"
+ },
+ {
+  "code": "LDO",
+  "query": "LDOUSDT",
+  "name": "Lido DAO",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/8000.png"
+ },
+ {
+  "code": "BONK",
+  "query": "BONKUSDT",
+  "name": "Bonk",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/23095.png"
+ },
+ {
+  "code": "ALGO",
+  "query": "ALGOUSDT",
+  "name": "Algorand",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4030.png"
+ },
+ {
+  "code": "SEI",
+  "query": "SEIUSDT",
+  "name": "Sei",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/23149.png"
+ },
+ {
+  "code": "JUP",
+  "query": "JUPUSDT",
+  "name": "Jupiter",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/29210.png"
+ },
+ {
+  "code": "ENA",
+  "query": "ENAUSDT",
+  "name": "Ethena",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/30171.png"
+ },
+ {
+  "code": "GALA",
+  "query": "GALAUSDT",
+  "name": "Gala",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/7080.png"
+ },
+ {
+  "code": "FLOW",
+  "query": "FLOWUSDT",
+  "name": "Flow",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4558.png"
+ },
+ {
+  "code": "AAVE",
+  "query": "AAVEUSDT",
+  "name": "Aave",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/7278.png"
+ },
+ {
+  "code": "WLD",
+  "query": "WLDUSDT",
+  "name": "Worldcoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/13502.png"
+ },
+ {
+  "code": "AGIX",
+  "query": "AGIXUSDT",
+  "name": "SingularityNET",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2424.png"
+ },
+ {
+  "code": "BEAM",
+  "query": "BEAMUSDT",
+  "name": "Beam",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/28298.png"
+ },
+ {
+  "code": "QNT",
+  "query": "QNTUSDT",
+  "name": "Quant",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3155.png"
+ },
+ {
+  "code": "DYDX",
+  "query": "DYDXUSDT",
+  "name": "dYdX (Native)",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/28324.png"
+ },
+ {
+  "code": "BTT",
+  "query": "BTTUSDT",
+  "name": "BitTorrent (New)",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/16086.png"
+ },
+ {
+  "code": "CHZ",
+  "query": "CHZUSDT",
+  "name": "Chiliz",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4066.png"
+ },
+ {
+  "code": "W",
+  "query": "WUSDT",
+  "name": "Wormhole",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/29587.png"
+ },
+ {
+  "code": "EGLD",
+  "query": "EGLDUSDT",
+  "name": "MultiversX",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6892.png"
+ },
+ {
+  "code": "NEO",
+  "query": "NEOUSDT",
+  "name": "Neo",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1376.png"
+ },
+ {
+  "code": "PENDLE",
+  "query": "PENDLEUSDT",
+  "name": "Pendle",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/9481.png"
+ },
+ {
+  "code": "AXS",
+  "query": "AXSUSDT",
+  "name": "Axie Infinity",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6783.png"
+ },
+ {
+  "code": "SAND",
+  "query": "SANDUSDT",
+  "name": "The Sandbox",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6210.png"
+ },
+ {
+  "code": "XEC",
+  "query": "XECUSDT",
+  "name": "eCash",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/10791.png"
+ },
+ {
+  "code": "JASMY",
+  "query": "JASMYUSDT",
+  "name": "JasmyCoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/8425.png"
+ },
+ {
+  "code": "XTZ",
+  "query": "XTZUSDT",
+  "name": "Tezos",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2011.png"
+ },
+ {
+  "code": "MINA",
+  "query": "MINAUSDT",
+  "name": "Mina",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/8646.png"
+ },
+ {
+  "code": "STRK",
+  "query": "STRKUSDT",
+  "name": "Starknet",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/22691.png"
+ },
+ {
+  "code": "EOS",
+  "query": "EOSUSDT",
+  "name": "EOS",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1765.png"
+ },
+ {
+  "code": "SNX",
+  "query": "SNXUSDT",
+  "name": "Synthetix",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2586.png"
+ },
+ {
+  "code": "CFX",
+  "query": "CFXUSDT",
+  "name": "Conflux",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/7334.png"
+ },
+ {
+  "code": "MANA",
+  "query": "MANAUSDT",
+  "name": "Decentraland",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1966.png"
+ },
+ {
+  "code": "BOME",
+  "query": "BOMEUSDT",
+  "name": "BOOK OF MEME",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/29870.png"
+ },
+ {
+  "code": "HNT",
+  "query": "HNTUSDT",
+  "name": "Helium",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5665.png"
+ },
+ {
+  "code": "ORDI",
+  "query": "ORDIUSDT",
+  "name": "ORDI",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/25028.png"
+ },
+ {
+  "code": "APE",
+  "query": "APEUSDT",
+  "name": "ApeCoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/18876.png"
+ },
+ {
+  "code": "WBTC",
+  "query": "WBTCUSDT",
+  "name": "Wrapped Bitcoin",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3717.png"
+ },
+ {
+  "code": "WBETH",
+  "query": "WBETHUSDT",
+  "name": "Wrapped Beacon ETH",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/24760.png"
+ },
+ {
+  "code": "YGG",
+  "query": "YGGUSDT",
+  "name": "Yield Guild Games",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/10688.png"
+ },
+ {
+  "code": "PIXEL",
+  "query": "PIXELUSDT",
+  "name": "Pixels",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/29335.png"
+ },
+ {
+  "code": "ONT",
+  "query": "ONTUSDT",
+  "name": "Ontology",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2566.png"
+ },
+ {
+  "code": "ONE",
+  "query": "ONEUSDT",
+  "name": "Harmony",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3945.png"
+ },
+ {
+  "code": "GMX",
+  "query": "GMXUSDT",
+  "name": "GMX",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/11857.png"
+ },
+ {
+  "code": "WAVES",
+  "query": "WAVESUSDT",
+  "name": "Waves",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1274.png"
+ },
+ {
+  "code": "SAGA",
+  "query": "SAGAUSDT",
+  "name": "Saga",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/30372.png"
+ },
+ {
+  "code": "SUSHI",
+  "query": "SUSHIUSDT",
+  "name": "SushiSwap",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6758.png"
+ },
+ {
+  "code": "GLMR",
+  "query": "GLMRUSDT",
+  "name": "Moonbeam",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6836.png"
+ },
+ {
+  "code": "VTHO",
+  "query": "VTHOUSDT",
+  "name": "VeThor Token",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3012.png"
+ },
+ {
+  "code": "KSM",
+  "query": "KSMUSDT",
+  "name": "Kusama",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5034.png"
+ },
+ {
+  "code": "RLC",
+  "query": "RLCUSDT",
+  "name": "iExec RLC",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1637.png"
+ },
+ {
+  "code": "LSK",
+  "query": "LSKUSDT",
+  "name": "Lisk",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1214.png"
+ },
+ {
+  "code": "CVX",
+  "query": "CVXUSDT",
+  "name": "Convex Finance",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/9903.png"
+ },
+ {
+  "code": "HIGH",
+  "query": "HIGHUSDT",
+  "name": "Highstreet",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/11232.png"
+ },
+ {
+  "code": "YFI",
+  "query": "YFIUSDT",
+  "name": "yearn.finance",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5864.png"
+ },
+ {
+  "code": "TRIBE",
+  "query": "TRIBEUSDT",
+  "name": "Tribe",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/9025.png"
+ },
+ {
+  "code": "VANRY",
+  "query": "VANRYUSDT",
+  "name": "Vanar Chain",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/8037.png"
+ },
+ {
+  "code": "KDA",
+  "query": "KDAUSDT",
+  "name": "Kadena",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5647.png"
+ },
+ {
+  "code": "ICX",
+  "query": "ICXUSDT",
+  "name": "ICON",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2099.png"
+ },
+ {
+  "code": "CHR",
+  "query": "CHRUSDT",
+  "name": "Chromia",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3978.png"
+ },
+ {
+  "code": "STORJ",
+  "query": "STORJUSDT",
+  "name": "Storj",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/1772.png"
+ },
+ {
+  "code": "WAXP",
+  "query": "WAXPUSDT",
+  "name": "WAX",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2300.png"
+ },
+ {
+  "code": "BAND",
+  "query": "BANDUSDT",
+  "name": "Band Protocol",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4679.png"
+ },
+ {
+  "code": "DGB",
+  "query": "DGBUSDT",
+  "name": "DigiByte",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/109.png"
+ },
+ {
+  "code": "CELR",
+  "query": "CELRUSDT",
+  "name": "Celer Network",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3814.png"
+ },
+ {
+  "code": "API3",
+  "query": "API3USDT",
+  "name": "API3",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/7737.png"
+ },
+ {
+  "code": "ACH",
+  "query": "ACHUSDT",
+  "name": "Alchemy Pay",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/6958.png"
+ },
+ {
+  "code": "C98",
+  "query": "C98USDT",
+  "name": "Coin98",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/10903.png"
+ },
+ {
+  "code": "ONG",
+  "query": "ONGUSDT",
+  "name": "Ontology Gas",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3217.png"
+ },
+ {
+  "code": "AUDIO",
+  "query": "AUDIOUSDT",
+  "name": "Audius",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/7455.png"
+ },
+ {
+  "code": "SXP",
+  "query": "SXPUSDT",
+  "name": "Solar",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4279.png"
+ },
+ {
+  "code": "BAL",
+  "query": "BALUSDT",
+  "name": "Balancer",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5728.png"
+ },
+ {
+  "code": "NTRN",
+  "query": "NTRNUSDT",
+  "name": "Neutron",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/26680.png"
+ },
+ {
+  "code": "IOST",
+  "query": "IOSTUSDT",
+  "name": "IOST",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/2405.png"
+ },
+ {
+  "code": "COTI",
+  "query": "COTIUSDT",
+  "name": "COTI",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/3992.png"
+ },
+ {
+  "code": "PROM",
+  "query": "PROMUSDT",
+  "name": "Prom",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/4120.png"
+ },
+ {
+  "code": "HIVE",
+  "query": "HIVEUSDT",
+  "name": "Hive",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/5370.png"
+ },
+ {
+  "code": "XAI",
+  "query": "XAIUSDT",
+  "name": "Xai",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/28933.png"
+ },
+ {
+  "code": "MAGIC",
+  "query": "MAGICUSDT",
+  "name": "Treasure",
+  "flagURL": "https://crypto-logo.oeo.li/64x64/14783.png"
+ }
+]

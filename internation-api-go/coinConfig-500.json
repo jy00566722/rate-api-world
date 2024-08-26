@@ -1,0 +1,1304 @@
+[
+ {
+  "code": "BTC",
+  "query": "BTCUSDT",
+  "name": "Bitcoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1.png"
+ },
+ {
+  "code": "ETH",
+  "query": "ETHUSDT",
+  "name": "Ethereum",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1027.png"
+ },
+ {
+  "code": "BNB",
+  "query": "BNBUSDT",
+  "name": "BNB",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1839.png"
+ },
+ {
+  "code": "SOL",
+  "query": "SOLUSDT",
+  "name": "Solana",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5426.png"
+ },
+ {
+  "code": "USDC",
+  "query": "USDCUSDT",
+  "name": "USDC",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3408.png"
+ },
+ {
+  "code": "XRP",
+  "query": "XRPUSDT",
+  "name": "XRP",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/52.png"
+ },
+ {
+  "code": "DOGE",
+  "query": "DOGEUSDT",
+  "name": "Dogecoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/74.png"
+ },
+ {
+  "code": "ADA",
+  "query": "ADAUSDT",
+  "name": "Cardano",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2010.png"
+ },
+ {
+  "code": "SHIB",
+  "query": "SHIBUSDT",
+  "name": "Shiba Inu",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5994.png"
+ },
+ {
+  "code": "AVAX",
+  "query": "AVAXUSDT",
+  "name": "Avalanche",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5805.png"
+ },
+ {
+  "code": "TRX",
+  "query": "TRXUSDT",
+  "name": "TRON",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1958.png"
+ },
+ {
+  "code": "DOT",
+  "query": "DOTUSDT",
+  "name": "Polkadot",
+  "flagURL": "https://s2.coinmarketcap.com/static/cloud/img/logo/polkadot/Polkadot_Logo_Animation_64x64.gif"
+ },
+ {
+  "code": "BCH",
+  "query": "BCHUSDT",
+  "name": "Bitcoin Cash",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1831.png"
+ },
+ {
+  "code": "LINK",
+  "query": "LINKUSDT",
+  "name": "Chainlink",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1975.png"
+ },
+ {
+  "code": "NEAR",
+  "query": "NEARUSDT",
+  "name": "NEAR Protocol",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6535.png"
+ },
+ {
+  "code": "MATIC",
+  "query": "MATICUSDT",
+  "name": "Polygon",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3890.png"
+ },
+ {
+  "code": "LTC",
+  "query": "LTCUSDT",
+  "name": "Litecoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2.png"
+ },
+ {
+  "code": "ICP",
+  "query": "ICPUSDT",
+  "name": "Internet Computer",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8916.png"
+ },
+ {
+  "code": "DAI",
+  "query": "DAIUSDT",
+  "name": "Dai",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4943.png"
+ },
+ {
+  "code": "UNI",
+  "query": "UNIUSDT",
+  "name": "Uniswap",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7083.png"
+ },
+ {
+  "code": "RNDR",
+  "query": "RNDRUSDT",
+  "name": "Render",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5690.png"
+ },
+ {
+  "code": "ETC",
+  "query": "ETCUSDT",
+  "name": "Ethereum Classic",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1321.png"
+ },
+ {
+  "code": "HBAR",
+  "query": "HBARUSDT",
+  "name": "Hedera",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4642.png"
+ },
+ {
+  "code": "FDUSD",
+  "query": "FDUSDUSDT",
+  "name": "First Digital USD",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/26081.png"
+ },
+ {
+  "code": "PEPE",
+  "query": "PEPEUSDT",
+  "name": "Pepe",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/24478.png"
+ },
+ {
+  "code": "APT",
+  "query": "APTUSDT",
+  "name": "Aptos",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/21794.png"
+ },
+ {
+  "code": "IMX",
+  "query": "IMXUSDT",
+  "name": "Immutable",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10603.png"
+ },
+ {
+  "code": "ATOM",
+  "query": "ATOMUSDT",
+  "name": "Cosmos",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3794.png"
+ },
+ {
+  "code": "WIF",
+  "query": "WIFUSDT",
+  "name": "dogwifhat",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28752.png"
+ },
+ {
+  "code": "FIL",
+  "query": "FILUSDT",
+  "name": "Filecoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2280.png"
+ },
+ {
+  "code": "XLM",
+  "query": "XLMUSDT",
+  "name": "Stellar",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/512.png"
+ },
+ {
+  "code": "STX",
+  "query": "STXUSDT",
+  "name": "Stacks",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4847.png"
+ },
+ {
+  "code": "GRT",
+  "query": "GRTUSDT",
+  "name": "The Graph",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6719.png"
+ },
+ {
+  "code": "OP",
+  "query": "OPUSDT",
+  "name": "Optimism",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11840.png"
+ },
+ {
+  "code": "ARB",
+  "query": "ARBUSDT",
+  "name": "Arbitrum",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11841.png"
+ },
+ {
+  "code": "AR",
+  "query": "ARUSDT",
+  "name": "Arweave",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5632.png"
+ },
+ {
+  "code": "TAO",
+  "query": "TAOUSDT",
+  "name": "Bittensor",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/22974.png"
+ },
+ {
+  "code": "VET",
+  "query": "VETUSDT",
+  "name": "VeChain",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3077.png"
+ },
+ {
+  "code": "MKR",
+  "query": "MKRUSDT",
+  "name": "Maker",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1518.png"
+ },
+ {
+  "code": "XMR",
+  "query": "XMRUSDT",
+  "name": "Monero",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/328.png"
+ },
+ {
+  "code": "SUI",
+  "query": "SUIUSDT",
+  "name": "Sui",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/20947.png"
+ },
+ {
+  "code": "INJ",
+  "query": "INJUSDT",
+  "name": "Injective",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7226.png"
+ },
+ {
+  "code": "THETA",
+  "query": "THETAUSDT",
+  "name": "Theta Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2416.png"
+ },
+ {
+  "code": "FTM",
+  "query": "FTMUSDT",
+  "name": "Fantom",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3513.png"
+ },
+ {
+  "code": "RUNE",
+  "query": "RUNEUSDT",
+  "name": "THORChain",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4157.png"
+ },
+ {
+  "code": "FET",
+  "query": "FETUSDT",
+  "name": "Fetch.ai",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3773.png"
+ },
+ {
+  "code": "TIA",
+  "query": "TIAUSDT",
+  "name": "Celestia",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/22861.png"
+ },
+ {
+  "code": "FLOKI",
+  "query": "FLOKIUSDT",
+  "name": "FLOKI",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10804.png"
+ },
+ {
+  "code": "LDO",
+  "query": "LDOUSDT",
+  "name": "Lido DAO",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8000.png"
+ },
+ {
+  "code": "BONK",
+  "query": "BONKUSDT",
+  "name": "Bonk",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/23095.png"
+ },
+ {
+  "code": "ALGO",
+  "query": "ALGOUSDT",
+  "name": "Algorand",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4030.png"
+ },
+ {
+  "code": "SEI",
+  "query": "SEIUSDT",
+  "name": "Sei",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/23149.png"
+ },
+ {
+  "code": "JUP",
+  "query": "JUPUSDT",
+  "name": "Jupiter",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/29210.png"
+ },
+ {
+  "code": "ENA",
+  "query": "ENAUSDT",
+  "name": "Ethena",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/30171.png"
+ },
+ {
+  "code": "GALA",
+  "query": "GALAUSDT",
+  "name": "Gala",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7080.png"
+ },
+ {
+  "code": "FLOW",
+  "query": "FLOWUSDT",
+  "name": "Flow",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4558.png"
+ },
+ {
+  "code": "AAVE",
+  "query": "AAVEUSDT",
+  "name": "Aave",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7278.png"
+ },
+ {
+  "code": "WLD",
+  "query": "WLDUSDT",
+  "name": "Worldcoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/13502.png"
+ },
+ {
+  "code": "AGIX",
+  "query": "AGIXUSDT",
+  "name": "SingularityNET",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2424.png"
+ },
+ {
+  "code": "BEAM",
+  "query": "BEAMUSDT",
+  "name": "Beam",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28298.png"
+ },
+ {
+  "code": "QNT",
+  "query": "QNTUSDT",
+  "name": "Quant",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3155.png"
+ },
+ {
+  "code": "DYDX",
+  "query": "DYDXUSDT",
+  "name": "dYdX (Native)",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28324.png"
+ },
+ {
+  "code": "BTT",
+  "query": "BTTUSDT",
+  "name": "BitTorrent (New)",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/16086.png"
+ },
+ {
+  "code": "CHZ",
+  "query": "CHZUSDT",
+  "name": "Chiliz",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4066.png"
+ },
+ {
+  "code": "W",
+  "query": "WUSDT",
+  "name": "Wormhole",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/29587.png"
+ },
+ {
+  "code": "EGLD",
+  "query": "EGLDUSDT",
+  "name": "MultiversX",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6892.png"
+ },
+ {
+  "code": "NEO",
+  "query": "NEOUSDT",
+  "name": "Neo",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1376.png"
+ },
+ {
+  "code": "PENDLE",
+  "query": "PENDLEUSDT",
+  "name": "Pendle",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9481.png"
+ },
+ {
+  "code": "AXS",
+  "query": "AXSUSDT",
+  "name": "Axie Infinity",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6783.png"
+ },
+ {
+  "code": "SAND",
+  "query": "SANDUSDT",
+  "name": "The Sandbox",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6210.png"
+ },
+ {
+  "code": "XEC",
+  "query": "XECUSDT",
+  "name": "eCash",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10791.png"
+ },
+ {
+  "code": "JASMY",
+  "query": "JASMYUSDT",
+  "name": "JasmyCoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8425.png"
+ },
+ {
+  "code": "XTZ",
+  "query": "XTZUSDT",
+  "name": "Tezos",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2011.png"
+ },
+ {
+  "code": "MINA",
+  "query": "MINAUSDT",
+  "name": "Mina",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8646.png"
+ },
+ {
+  "code": "STRK",
+  "query": "STRKUSDT",
+  "name": "Starknet",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/22691.png"
+ },
+ {
+  "code": "EOS",
+  "query": "EOSUSDT",
+  "name": "EOS",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1765.png"
+ },
+ {
+  "code": "SNX",
+  "query": "SNXUSDT",
+  "name": "Synthetix",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2586.png"
+ },
+ {
+  "code": "CFX",
+  "query": "CFXUSDT",
+  "name": "Conflux",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7334.png"
+ },
+ {
+  "code": "MANA",
+  "query": "MANAUSDT",
+  "name": "Decentraland",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1966.png"
+ },
+ {
+  "code": "BOME",
+  "query": "BOMEUSDT",
+  "name": "BOOK OF MEME",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/29870.png"
+ },
+ {
+  "code": "HNT",
+  "query": "HNTUSDT",
+  "name": "Helium",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5665.png"
+ },
+ {
+  "code": "ORDI",
+  "query": "ORDIUSDT",
+  "name": "ORDI",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/25028.png"
+ },
+ {
+  "code": "APE",
+  "query": "APEUSDT",
+  "name": "ApeCoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/18876.png"
+ },
+ {
+  "code": "WBTC",
+  "query": "WBTCUSDT",
+  "name": "Wrapped Bitcoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3717.png"
+ },
+ {
+  "code": "WBETH",
+  "query": "WBETHUSDT",
+  "name": "Wrapped Beacon ETH",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/24760.png"
+ },
+ {
+  "code": "YGG",
+  "query": "YGGUSDT",
+  "name": "Yield Guild Games",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10688.png"
+ },
+ {
+  "code": "PIXEL",
+  "query": "PIXELUSDT",
+  "name": "Pixels",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/29335.png"
+ },
+ {
+  "code": "ONT",
+  "query": "ONTUSDT",
+  "name": "Ontology",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2566.png"
+ },
+ {
+  "code": "ONE",
+  "query": "ONEUSDT",
+  "name": "Harmony",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3945.png"
+ },
+ {
+  "code": "GMX",
+  "query": "GMXUSDT",
+  "name": "GMX",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11857.png"
+ },
+ {
+  "code": "WAVES",
+  "query": "WAVESUSDT",
+  "name": "Waves",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1274.png"
+ },
+ {
+  "code": "SAGA",
+  "query": "SAGAUSDT",
+  "name": "Saga",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/30372.png"
+ },
+ {
+  "code": "SUSHI",
+  "query": "SUSHIUSDT",
+  "name": "SushiSwap",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6758.png"
+ },
+ {
+  "code": "GLMR",
+  "query": "GLMRUSDT",
+  "name": "Moonbeam",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6836.png"
+ },
+ {
+  "code": "VTHO",
+  "query": "VTHOUSDT",
+  "name": "VeThor Token",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3012.png"
+ },
+ {
+  "code": "KSM",
+  "query": "KSMUSDT",
+  "name": "Kusama",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5034.png"
+ },
+ {
+  "code": "RLC",
+  "query": "RLCUSDT",
+  "name": "iExec RLC",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1637.png"
+ },
+ {
+  "code": "LSK",
+  "query": "LSKUSDT",
+  "name": "Lisk",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1214.png"
+ },
+ {
+  "code": "CVX",
+  "query": "CVXUSDT",
+  "name": "Convex Finance",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9903.png"
+ },
+ {
+  "code": "HIGH",
+  "query": "HIGHUSDT",
+  "name": "Highstreet",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11232.png"
+ },
+ {
+  "code": "YFI",
+  "query": "YFIUSDT",
+  "name": "yearn.finance",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5864.png"
+ },
+ {
+  "code": "TRIBE",
+  "query": "TRIBEUSDT",
+  "name": "Tribe",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9025.png"
+ },
+ {
+  "code": "VANRY",
+  "query": "VANRYUSDT",
+  "name": "Vanar Chain",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8037.png"
+ },
+ {
+  "code": "KDA",
+  "query": "KDAUSDT",
+  "name": "Kadena",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5647.png"
+ },
+ {
+  "code": "ICX",
+  "query": "ICXUSDT",
+  "name": "ICON",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2099.png"
+ },
+ {
+  "code": "CHR",
+  "query": "CHRUSDT",
+  "name": "Chromia",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3978.png"
+ },
+ {
+  "code": "STORJ",
+  "query": "STORJUSDT",
+  "name": "Storj",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1772.png"
+ },
+ {
+  "code": "WAXP",
+  "query": "WAXPUSDT",
+  "name": "WAX",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2300.png"
+ },
+ {
+  "code": "BAND",
+  "query": "BANDUSDT",
+  "name": "Band Protocol",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4679.png"
+ },
+ {
+  "code": "DGB",
+  "query": "DGBUSDT",
+  "name": "DigiByte",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/109.png"
+ },
+ {
+  "code": "CELR",
+  "query": "CELRUSDT",
+  "name": "Celer Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3814.png"
+ },
+ {
+  "code": "API3",
+  "query": "API3USDT",
+  "name": "API3",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7737.png"
+ },
+ {
+  "code": "ACH",
+  "query": "ACHUSDT",
+  "name": "Alchemy Pay",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6958.png"
+ },
+ {
+  "code": "C98",
+  "query": "C98USDT",
+  "name": "Coin98",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10903.png"
+ },
+ {
+  "code": "ONG",
+  "query": "ONGUSDT",
+  "name": "Ontology Gas",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3217.png"
+ },
+ {
+  "code": "AUDIO",
+  "query": "AUDIOUSDT",
+  "name": "Audius",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7455.png"
+ },
+ {
+  "code": "SXP",
+  "query": "SXPUSDT",
+  "name": "Solar",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4279.png"
+ },
+ {
+  "code": "BAL",
+  "query": "BALUSDT",
+  "name": "Balancer",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5728.png"
+ },
+ {
+  "code": "NTRN",
+  "query": "NTRNUSDT",
+  "name": "Neutron",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/26680.png"
+ },
+ {
+  "code": "IOST",
+  "query": "IOSTUSDT",
+  "name": "IOST",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2405.png"
+ },
+ {
+  "code": "COTI",
+  "query": "COTIUSDT",
+  "name": "COTI",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3992.png"
+ },
+ {
+  "code": "PROM",
+  "query": "PROMUSDT",
+  "name": "Prom",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4120.png"
+ },
+ {
+  "code": "HIVE",
+  "query": "HIVEUSDT",
+  "name": "Hive",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5370.png"
+ },
+ {
+  "code": "XAI",
+  "query": "XAIUSDT",
+  "name": "Xai",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28933.png"
+ },
+ {
+  "code": "MAGIC",
+  "query": "MAGICUSDT",
+  "name": "Treasure",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/14783.png"
+ },
+ {
+  "code": "OMNI",
+  "query": "OMNIUSDT",
+  "name": "Omni Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/30315.png"
+ },
+ {
+  "code": "USTC",
+  "query": "USTCUSDT",
+  "name": "TerraClassicUSD",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7129.png"
+ },
+ {
+  "code": "JOE",
+  "query": "JOEUSDT",
+  "name": "JOE",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11396.png"
+ },
+ {
+  "code": "IQ",
+  "query": "IQUSDT",
+  "name": "IQ",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2930.png"
+ },
+ {
+  "code": "POND",
+  "query": "PONDUSDT",
+  "name": "Marlin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7497.png"
+ },
+ {
+  "code": "CYBER",
+  "query": "CYBERUSDT",
+  "name": "CyberConnect",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/24781.png"
+ },
+ {
+  "code": "AI",
+  "query": "AIUSDT",
+  "name": "Sleepless AI",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28846.png"
+ },
+ {
+  "code": "NMR",
+  "query": "NMRUSDT",
+  "name": "Numeraire",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1732.png"
+ },
+ {
+  "code": "PEOPLE",
+  "query": "PEOPLEUSDT",
+  "name": "ConstitutionDAO",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/14806.png"
+ },
+ {
+  "code": "CVC",
+  "query": "CVCUSDT",
+  "name": "Civic",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1816.png"
+ },
+ {
+  "code": "ARK",
+  "query": "ARKUSDT",
+  "name": "Ark",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1586.png"
+ },
+ {
+  "code": "KEEP",
+  "query": "KEEPUSDT",
+  "name": "Keep Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5566.png"
+ },
+ {
+  "code": "REZ",
+  "query": "REZUSDT",
+  "name": "Renzo",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/30843.png"
+ },
+ {
+  "code": "CTSI",
+  "query": "CTSIUSDT",
+  "name": "Cartesi",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5444.png"
+ },
+ {
+  "code": "RIF",
+  "query": "RIFUSDT",
+  "name": "Rootstock Infrastructure Framework",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3701.png"
+ },
+ {
+  "code": "SLP",
+  "query": "SLPUSDT",
+  "name": "Smooth Love Potion",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5824.png"
+ },
+ {
+  "code": "BLZ",
+  "query": "BLZUSDT",
+  "name": "Bluzelle",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2505.png"
+ },
+ {
+  "code": "PUNDIX",
+  "query": "PUNDIXUSDT",
+  "name": "Pundi X (New)",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9040.png"
+ },
+ {
+  "code": "POWR",
+  "query": "POWRUSDT",
+  "name": "Powerledger",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2132.png"
+ },
+ {
+  "code": "SYS",
+  "query": "SYSUSDT",
+  "name": "Syscoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/541.png"
+ },
+ {
+  "code": "STRAX",
+  "query": "STRAXUSDT",
+  "name": "Stratis [New]",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/30168.png"
+ },
+ {
+  "code": "XNO",
+  "query": "XNOUSDT",
+  "name": "Nano",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1567.png"
+ },
+ {
+  "code": "EDU",
+  "query": "EDUUSDT",
+  "name": "Open Campus",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/24613.png"
+ },
+ {
+  "code": "PORTAL",
+  "query": "PORTALUSDT",
+  "name": "Portal",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/29555.png"
+ },
+ {
+  "code": "XVS",
+  "query": "XVSUSDT",
+  "name": "Venus",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7288.png"
+ },
+ {
+  "code": "SYN",
+  "query": "SYNUSDT",
+  "name": "Synapse",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/12147.png"
+ },
+ {
+  "code": "SNT",
+  "query": "SNTUSDT",
+  "name": "Status",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1759.png"
+ },
+ {
+  "code": "MOVR",
+  "query": "MOVRUSDT",
+  "name": "Moonriver",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9285.png"
+ },
+ {
+  "code": "USDP",
+  "query": "USDPUSDT",
+  "name": "Pax Dollar",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/3330.png"
+ },
+ {
+  "code": "PHA",
+  "query": "PHAUSDT",
+  "name": "Phala Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6841.png"
+ },
+ {
+  "code": "AEVO",
+  "query": "AEVOUSDT",
+  "name": "Aevo",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/29676.png"
+ },
+ {
+  "code": "DUSK",
+  "query": "DUSKUSDT",
+  "name": "Dusk",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4092.png"
+ },
+ {
+  "code": "SUN",
+  "query": "SUNUSDT",
+  "name": "Sun (New)",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10529.png"
+ },
+ {
+  "code": "NFP",
+  "query": "NFPUSDT",
+  "name": "NFPrompt",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28778.png"
+ },
+ {
+  "code": "TRU",
+  "query": "TRUUSDT",
+  "name": "TrueFi",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7725.png"
+ },
+ {
+  "code": "DENT",
+  "query": "DENTUSDT",
+  "name": "Dent",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1886.png"
+ },
+ {
+  "code": "HOOK",
+  "query": "HOOKUSDT",
+  "name": "Hooked Protocol",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/22764.png"
+ },
+ {
+  "code": "TNSR",
+  "query": "TNSRUSDT",
+  "name": "Tensor",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/30449.png"
+ },
+ {
+  "code": "ZEN",
+  "query": "ZENUSDT",
+  "name": "Horizen",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1698.png"
+ },
+ {
+  "code": "STEEM",
+  "query": "STEEMUSDT",
+  "name": "Steem",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1230.png"
+ },
+ {
+  "code": "FRONT",
+  "query": "FRONTUSDT",
+  "name": "Frontier",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5893.png"
+ },
+ {
+  "code": "REQ",
+  "query": "REQUSDT",
+  "name": "Request",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2071.png"
+ },
+ {
+  "code": "LEVER",
+  "query": "LEVERUSDT",
+  "name": "LeverFi",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/20873.png"
+ },
+ {
+  "code": "PYR",
+  "query": "PYRUSDT",
+  "name": "Vulcan Forged (PYR)",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9308.png"
+ },
+ {
+  "code": "HFT",
+  "query": "HFTUSDT",
+  "name": "Hashflow",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/22461.png"
+ },
+ {
+  "code": "MTL",
+  "query": "MTLUSDT",
+  "name": "Metal DAO",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1788.png"
+ },
+ {
+  "code": "PHB",
+  "query": "PHBUSDT",
+  "name": "Phoenix",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/13969.png"
+ },
+ {
+  "code": "WIN",
+  "query": "WINUSDT",
+  "name": "WINkLink",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4206.png"
+ },
+ {
+  "code": "ACE",
+  "query": "ACEUSDT",
+  "name": "Fusionist",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28674.png"
+ },
+ {
+  "code": "AUCTION",
+  "query": "AUCTIONUSDT",
+  "name": "Bounce Token",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8602.png"
+ },
+ {
+  "code": "MBOX",
+  "query": "MBOXUSDT",
+  "name": "MOBOX",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9175.png"
+ },
+ {
+  "code": "DODO",
+  "query": "DODOUSDT",
+  "name": "DODO",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7224.png"
+ },
+ {
+  "code": "KNC",
+  "query": "KNCUSDT",
+  "name": "Kyber Network Crystal v2",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9444.png"
+ },
+ {
+  "code": "STPT",
+  "query": "STPTUSDT",
+  "name": "STP",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4006.png"
+ },
+ {
+  "code": "GNS",
+  "query": "GNSUSDT",
+  "name": "Gains Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/13663.png"
+ },
+ {
+  "code": "SCRT",
+  "query": "SCRTUSDT",
+  "name": "Secret",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5604.png"
+ },
+ {
+  "code": "ACA",
+  "query": "ACAUSDT",
+  "name": "Acala Token",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6756.png"
+ },
+ {
+  "code": "ARDR",
+  "query": "ARDRUSDT",
+  "name": "Ardor",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1320.png"
+ },
+ {
+  "code": "HIFI",
+  "query": "HIFIUSDT",
+  "name": "Hifi Finance",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/23037.png"
+ },
+ {
+  "code": "ERN",
+  "query": "ERNUSDT",
+  "name": "Ethernity Chain",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8615.png"
+ },
+ {
+  "code": "LQTY",
+  "query": "LQTYUSDT",
+  "name": "Liquity",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7429.png"
+ },
+ {
+  "code": "LOOM",
+  "query": "LOOMUSDT",
+  "name": "Loom Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2588.png"
+ },
+ {
+  "code": "OXT",
+  "query": "OXTUSDT",
+  "name": "Orchid",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5026.png"
+ },
+ {
+  "code": "STG",
+  "query": "STGUSDT",
+  "name": "Stargate Finance",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/18934.png"
+ },
+ {
+  "code": "XVG",
+  "query": "XVGUSDT",
+  "name": "Verge",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/693.png"
+ },
+ {
+  "code": "GHST",
+  "query": "GHSTUSDT",
+  "name": "Aavegotchi",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7046.png"
+ },
+ {
+  "code": "MAV",
+  "query": "MAVUSDT",
+  "name": "Maverick Protocol",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/18037.png"
+ },
+ {
+  "code": "ALPHA",
+  "query": "ALPHAUSDT",
+  "name": "Stella",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7232.png"
+ },
+ {
+  "code": "BNT",
+  "query": "BNTUSDT",
+  "name": "Bancor",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1727.png"
+ },
+ {
+  "code": "RDNT",
+  "query": "RDNTUSDT",
+  "name": "Radiant Capital",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/21106.png"
+ },
+ {
+  "code": "RAD",
+  "query": "RADUSDT",
+  "name": "Radworks",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6843.png"
+ },
+ {
+  "code": "CTK",
+  "query": "CTKUSDT",
+  "name": "Shentu",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4807.png"
+ },
+ {
+  "code": "OMG",
+  "query": "OMGUSDT",
+  "name": "OMG Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/1808.png"
+ },
+ {
+  "code": "SPELL",
+  "query": "SPELLUSDT",
+  "name": "Spell Token",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11289.png"
+ },
+ {
+  "code": "NKN",
+  "query": "NKNUSDT",
+  "name": "NKN",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2780.png"
+ },
+ {
+  "code": "CREAM",
+  "query": "CREAMUSDT",
+  "name": "Cream Finance",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/6193.png"
+ },
+ {
+  "code": "QI",
+  "query": "QIUSDT",
+  "name": "BENQI",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/9288.png"
+ },
+ {
+  "code": "ATA",
+  "query": "ATAUSDT",
+  "name": "Automata Network",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10188.png"
+ },
+ {
+  "code": "BADGER",
+  "query": "BADGERUSDT",
+  "name": "Badger DAO",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7859.png"
+ },
+ {
+  "code": "ARPA",
+  "query": "ARPAUSDT",
+  "name": "ARPA",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/4039.png"
+ },
+ {
+  "code": "RARE",
+  "query": "RAREUSDT",
+  "name": "SuperRare",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11294.png"
+ },
+ {
+  "code": "OGN",
+  "query": "OGNUSDT",
+  "name": "Origin Protocol",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5117.png"
+ },
+ {
+  "code": "GTC",
+  "query": "GTCUSDT",
+  "name": "Gitcoin",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/10052.png"
+ },
+ {
+  "code": "WNXM",
+  "query": "WNXMUSDT",
+  "name": "Wrapped NXM",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5939.png"
+ },
+ {
+  "code": "DAR",
+  "query": "DARUSDT",
+  "name": "Mines of Dalarnia",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11374.png"
+ },
+ {
+  "code": "POLY",
+  "query": "POLYUSDT",
+  "name": "Polymath",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2496.png"
+ },
+ {
+  "code": "QKC",
+  "query": "QKCUSDT",
+  "name": "QuarkChain",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/2840.png"
+ },
+ {
+  "code": "AGLD",
+  "query": "AGLDUSDT",
+  "name": "Adventure Gold",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/11568.png"
+ },
+ {
+  "code": "ALICE",
+  "query": "ALICEUSDT",
+  "name": "MyNeighborAlice",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/8766.png"
+ },
+ {
+  "code": "WRX",
+  "query": "WRXUSDT",
+  "name": "WazirX",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/5161.png"
+ },
+ {
+  "code": "BAKE",
+  "query": "BAKEUSDT",
+  "name": "BakeryToken",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/7064.png"
+ },
+ {
+  "code": "MEME",
+  "query": "MEMEUSDT",
+  "name": "MEMETOON",
+  "flagURL": "https://s2.coinmarketcap.com/static/img/coins/64x64/28111.png"
+ }
+]

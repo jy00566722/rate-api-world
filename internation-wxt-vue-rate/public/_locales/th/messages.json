@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "เครื่องแปลงสกุลเงิน",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "ส่วนขยายนี้เสนออัตราแบบเรียลไทม์สำหรับสกุลเงินแบบดั้งเดิมและสกุลเงินคริปโต",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "เครื่องแปลงสกุลเงิน",
+        "description": "Default Action Title"
+    }
+}

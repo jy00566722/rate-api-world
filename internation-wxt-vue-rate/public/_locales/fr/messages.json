@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Convertisseur de devises Plus",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Cette extension offre des taux en temps réel pour les monnaies traditionnelles et les cryptomonnaies",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Convertisseur de devises",
+        "description": "Default Action Title"
+    }
+}

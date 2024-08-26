@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valutaomregner Plus",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Denne udvidelse tilbyder realtidskurser for traditionelle og kryptovalutaer",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valutaomregner Plus",
+        "description": "Default Action Title"
+    }
+}

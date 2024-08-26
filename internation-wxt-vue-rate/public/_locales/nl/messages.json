@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valuta-omrekenaar",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Deze extensie biedt real-time tarieven voor traditionele en cryptovaluta",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valuta-omrekenaar",
+        "description": "Default Action Title"
+    }
+}

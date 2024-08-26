@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valuuttamuunnin",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Tämä laajennus tarjoaa reaaliaikaiset kurssit perinteisille ja kryptovaluutoille",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valuuttamuunnin",
+        "description": "Default Action Title"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Convertitore di valuta",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Questa estensione offre tassi in tempo reale per valute tradizionali e criptovalute",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Convertitore di valuta",
+        "description": "Default Action Title"
+    }
+}

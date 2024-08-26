@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "কারেন্সি কনভার্টার প্লাস",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "এই এক্সটেনশনটি প্রথাগত এবং ক্রিপ্টো মুদ্রার জন্য রিয়েল-টাইম রেট প্রদান করে",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "কারেন্সি কনভার্টার প্লাস",
+        "description": "Default Action Title"
+    }
+}

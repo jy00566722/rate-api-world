@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valuta Átváltó",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Ez a bővítmény valós idejű árfolyamokat kínál hagyományos és kriptovalutákra",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valuta Átváltó",
+        "description": "Default Action Title"
+    }
+}

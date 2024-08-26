@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "ಕರೆನ್ಸಿ ಕನ್ವರ್ಟರ್",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "ಈ ವಿಸ್ತರಣೆಯು ಸಾಂಪ್ರದಾಯಿಕ ಮತ್ತು ಕ್ರಿಪ್ಟೋ ಕರೆನ್ಸಿಗಳಿಗೆ ರಿಯಲ್-ಟೈಮ್ ದರಗಳನ್ನು ನೀಡುತ್ತದೆ",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "ಕರೆನ್ಸಿ ಕನ್ವರ್ಟರ್",
+        "description": "Default Action Title"
+    }
+}

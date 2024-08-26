@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Konverter Mata Uang",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Ekstensi ini menawarkan tarif real-time untuk mata uang tradisional dan kripto",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Konverter Mata Uang",
+        "description": "Default Action Title"
+    }
+}

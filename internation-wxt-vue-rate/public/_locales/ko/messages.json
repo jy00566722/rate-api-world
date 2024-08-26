@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "환율 계산기",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "이 확장 프로그램은 전통 및 암호화폐에 대한 실시간 환율을 제공합니다",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "환율 계산기",
+        "description": "Default Action Title"
+    }
+}

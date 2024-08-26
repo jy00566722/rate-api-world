@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "मुद्रा परिवर्तक",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "यह एक्सटेंशन पारंपरिक और क्रिप्टो मुद्राओं के लिए वास्तविक समय दर प्रदान करता है",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "मुद्रा परिवर्तक",
+        "description": "Default Action Title"
+    }
+}

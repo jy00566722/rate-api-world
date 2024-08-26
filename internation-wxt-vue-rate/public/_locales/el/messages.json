@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Μετατροπέας νομίσματος",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Αυτή η επέκταση προσφέρει πραγματικούς χρόνους για τα παραδοσιακά και κρυπτονομίσματα",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Μετατροπέας νομίσματος",
+        "description": "Default Action Title"
+    }
+}

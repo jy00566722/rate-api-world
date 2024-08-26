@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valutaomvandlare",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Detta tillägg erbjuder realtidskurser för traditionella och kryptovalutor",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valutaomvandlare",
+        "description": "Default Action Title"
+    }
+}

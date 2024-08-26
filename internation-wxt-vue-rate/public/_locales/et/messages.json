@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Valuuta konverter",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "See laiendus pakub reaalajas kursse traditsioonilistele ja krüptovaluutadele",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Valuuta konverter",
+        "description": "Default Action Title"
+    }
+}

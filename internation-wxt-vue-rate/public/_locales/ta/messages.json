@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "நாணய மாற்றி",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "இந்த விரிவாக்கம் பாரம்பரிய மற்றும் கிரிப்டோ நாணயங்களுக்கான நிகழ்நேர விகிதங்களை வழங்குகிறது",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "நாணய மாற்றி",
+        "description": "Default Action Title"
+    }
+}

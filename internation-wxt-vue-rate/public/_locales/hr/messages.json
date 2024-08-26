@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "Pretvarač valuta Plus",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "Ovaj dodatak nudi stvarne tečajeve za tradicionalne i kripto valute",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "Pretvarač valuta",
+        "description": "Default Action Title"
+    }
+}

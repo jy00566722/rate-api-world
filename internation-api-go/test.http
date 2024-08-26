@@ -1,0 +1,4 @@
+POST https://rate-api.oeo.li/v2/feedback
+
+###
+GET https://data-api.binance.vision/api/v3/ticker/price?symbol=LINKUSDT

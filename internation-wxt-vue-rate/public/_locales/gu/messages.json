@@ -1,0 +1,14 @@
+{
+    "extName": {
+        "message": "ચલણ રૂપાંતરણ સાધન",
+        "description": "Extension Name"
+    },
+    "description": {
+        "message": "આ એક્સ્ટેન્શન પારંપરિક અને ક્રિપ્ટો ચલણો માટે રિયલ-ટાઈમ દરો પ્રદાન કરે છે",
+        "description": "Extension Description"
+    },
+    "actionTitle": {
+        "message": "ચલણ રૂપાંતરણ સાધન",
+        "description": "Default Action Title"
+    }
+}
