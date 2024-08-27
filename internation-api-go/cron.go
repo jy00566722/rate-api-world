@@ -18,7 +18,7 @@ func MyCron() {
 		fmt.Printf("运行定时任务-获取币安数据:%v\n", time.Now())
 		GetBiAnce() //获取币安数据
 	})
-	c.AddFunc("20 */8 * * * *", func() {
+	c.AddFunc("50 */8 * * * *", func() {
 		fmt.Printf("运行定时任务-google sheets:%v\n", time.Now())
 		GetRateFromGoogleSheets() //获取google sheets数据 每8分钟更新一次
 	})
