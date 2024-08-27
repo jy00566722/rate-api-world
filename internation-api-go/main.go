@@ -41,6 +41,7 @@ func main() {
 	go MyCron()               //启动定时任务
 	//准备gin
 	r := gin.New()
+	r.Use(gin.Logger())
 	r.Use(cors.Default())
 	r.Use(gin.Recovery())
 	LoadFeedbackRouter(r)
@@ -53,6 +54,7 @@ func main() {
 		// dataCopy := make([]CurrencyInfo, len(CurrencyInfoList))
 		// copy(dataCopy, CurrencyInfoList)
 		defer Lock.RUnlock()
+		c.Header("Data-Server", viper.GetString("DataServer"))
 		c.JSON(http.StatusOK, gin.H{
 			"code":           200,
 			"base":           "USD",
@@ -64,6 +66,7 @@ func main() {
 	r.GET("/v1/exchange_crypto", func(c *gin.Context) {
 		Lock.RLock()
 		defer Lock.RUnlock()
+		c.Header("Data-Server", viper.GetString("DataServer"))
 		c.JSON(http.StatusOK, gin.H{
 			"code":                   200,
 			"base":                   "USDT",

@@ -1,7 +1,8 @@
 {
-  "env": "release",
+  "env": "release01",
   "mongodbDns":"mongodb://rate:aabbcc1234@2.qu2.top:27017/?authSource=rate",
   "periodInMinutes_crypto":3,
+  "DataServer":"rate-api-world-01",
   "message":[
      {"index":3,
      "context":"Would you mind leaving a positive review when you have a moment? Your support will motivate me to work even harder.",
