@@ -25,7 +25,10 @@
       key-field="tcur"
     >
       <template v-slot="{ item }">
-        <div class="add_list_country_item" @click="changStatus(item)">
+        <div 
+          v-memo="[item.selected, item.tcur, item.currencyName, item.symbol]"
+          class="add_list_country_item" 
+          @click="changStatus(item)">
           <span><img :src="item.flagURL" alt="" width="40" height="40"></span>
           <span class="add_list_all_s">
             {{item.tcur}}{{" - "}}{{item.currencyName}} <span v-if="item.symbol" class="add_list_symbol">{{" "+item.symbol}}</span>
@@ -148,16 +151,14 @@ function matchIgnoreCase(str, a) {
 
 const changStatus = (item) => {
   item.selected = !item.selected
-  if (item.selected) {
+  const index = country_selected.value.indexOf(item.tcur)
+  if (item.selected && index === -1) {
     country_selected.value.push(item.tcur)
-  } else {
-    country_selected.value.splice(country_selected.value.indexOf(item.tcur), 1)
+  } else if (!item.selected && index !== -1) {
+    country_selected.value.splice(index, 1)
   }
 
-  let c = country_selected.value.map((el) => {
-    return el
-  })
-  chrome.storage.local.set({ currency_list_now: c }, function () {})
+  chrome.storage.local.set({ currency_list_now: [...country_selected.value] })
 }
 
 const lookSelected = () => {
