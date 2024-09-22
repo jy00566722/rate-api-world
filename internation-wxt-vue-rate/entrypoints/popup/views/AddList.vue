@@ -9,7 +9,7 @@
         >{{selected_text}}</span></el-col>
     </el-row>
     <div class="add_list_search">
-      <el-input size="default" v-model="searchKey" :placeholder="t('SearchForCurrencyCountryCode')" @input="searchInput">
+      <el-input size="default" v-model="searchKey" :placeholder="t('SearchForCurrencyCountryCode')" >
           <template #append><span>
             <el-icon><Search /></el-icon>
           
@@ -67,12 +67,16 @@ const selectedClassObject = computed(() => ({
 }))
 
 const filteredCountryList = computed(() => {
+  const baseList = selected_status.value 
+    ? country_list_status.value.filter(item => item.selected)
+    : country_list_status.value
+
   if (!searchKey.value) {
-    return country_list_status.value.filter(item => item.status === 'ALREADY')
+    return baseList
   }
-  return country_list_status.value.filter(item => 
-    item.status === 'ALREADY' && matchIgnoreCase(item.searchText, searchKey.value)
-  )
+  
+  const searchRegex = new RegExp(escapeRegExp(searchKey.value), 'i')
+  return baseList.filter(item => searchRegex.test(item.searchText))
 })
 
 onBeforeMount(() => {
@@ -131,16 +135,6 @@ onBeforeMount(() => {
     country_selected.value = currency_list_now
   })
 })
-
-const searchInput = () => {
-  country_list_status.value.forEach((el) => {
-    if (matchIgnoreCase(el.searchText, searchKey.value)) {
-      el.status = 'ALREADY'
-    } else {
-      el.status = 'noShow'
-    }
-  })
-}
 
 function escapeRegExp(string) {
   return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&')
