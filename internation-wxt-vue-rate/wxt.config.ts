@@ -19,8 +19,8 @@ export default defineConfig({
   }),
   manifest: {
     name: '__MSG_extName__',
-    version: '1.3.0',
-    version_name: "1.3.0",
+    version: '1.3.1',
+    version_name: "1.3.1",
     description: '__MSG_description__',
     icons: {
       16: 'icons/16.png',
